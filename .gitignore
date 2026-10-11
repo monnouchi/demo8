@@ -1,0 +1,16 @@
+.godot/
+*.tmp
+.DS_Store
+/docs/
+/game/assets/audio/*.wav
+/game/assets/audio/*.import
+/game/assets/fonts/*.ttf
+/game/assets/fonts/*.import
+
+*.import
+
+/game/build_info.gd
+/game/build_info.gd.uid
+
+__pycache__/
+*.py[cod]
